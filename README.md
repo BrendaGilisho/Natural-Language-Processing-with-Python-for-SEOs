@@ -16,6 +16,6 @@ Here is the step by step:
 5. We will build a knowledge graph and a simple form to visualize specific relationships
 
 
-Below is a picture of the knowledge grapgh we will get;
+Below is a picture of the knowledge graph we will get;
 
 ![knowledgeGraph](https://user-images.githubusercontent.com/57228014/218960874-e603b027-0019-4b8e-9f3a-a78cb4f47a19.png)
